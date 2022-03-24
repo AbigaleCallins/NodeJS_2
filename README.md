@@ -29,4 +29,4 @@ ADVANCED
 3. Using request-promise, pull articles from https://reddit.com/r/popular.json.
 4. If the article is a .jpg, .gif, or a .png (hint):
    * Use request-promise to download the media.
-   * Write each download to a file (named the id of the article) in the downloads directory.
+   * Write each download to a file (named the id of the article) in the downloads directory."# NodeJS_2" 
